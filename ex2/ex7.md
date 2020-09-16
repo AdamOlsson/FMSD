@@ -1,0 +1,9 @@
+1.
+No it is not accepted, counter example...
+{p},{p,q},{p},{p,q},{p},{p,q}......
+
+2.
+Holds
+
+3. 
+{q},{},{q},{},{q},{},{q},{}......
